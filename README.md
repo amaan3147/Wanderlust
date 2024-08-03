@@ -1,27 +1,75 @@
-Wanderlust
-Description
-Wanderlust is a scalable full-stack web application designed for managing room and home rentals. Leveraging JavaScript, HTML, CSS, MongoDB, Node.js, and Express.js, the project enhances user experience and operational efficiency. Key features include robust user authentication, dynamic and responsive property listings, and a comprehensive review system.
+# Wanderlust
 
-Features:
-User Authentication:
-Implemented secure password hashing to ensure data security and privacy.
-Dynamic Web Pages:
-Created responsive pages for managing property listings, enhancing user engagement.
-Review System:
-Integrated a comprehensive feedback system to build trust and transparency.
-Optimized Database Schema:
-Engineered an efficient schema for storing user profiles, listings, and reviews.
+![Screenshot 2024-08-03 165949](https://github.com/user-attachments/assets/a456233f-41a1-418c-a23d-402ff2a84ad7)
 
 
+Wanderlust is a full-stack web application for managing room and home rentals. It provides a platform for users to list properties, browse available rentals, and leave reviews, enhancing the overall experience of both hosts and guests.
 
-Getting Started:
-Clone this repository.
-Install dependencies: npm install.
-Start the server: npm start.
+## Features
 
-Contributing:
-Contributions are welcome! Fork the repo and submit a pull request.
+![Screenshot 2024-08-03 170023](https://github.com/user-attachments/assets/3c28d6a6-a8c4-4f01-a69b-b9120b0dbd67)
 
-Feel free to customize this further based on your specific achievements and project details. Best of luck with your GitHub profile! 🌟🚀
 
-Learn more
+- User authentication with secure password hashing
+- Dynamic property listing management
+- Responsive web design for optimal user experience across devices
+- Comprehensive review system for user feedback
+- Optimized database schema for efficient data storage and retrieval
+
+## Technologies Used
+
+- Frontend:
+  - HTML
+  - CSS
+  - JavaScript
+
+- Backend:
+  - Node.js
+  - Express.js
+
+- Database:
+  - MongoDB
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (version 12.0 or later)
+- MongoDB (version 4.0 or later)
+
+### Installation
+
+1. Clone the repository:https://github.com/amaan3147/Wanderlust.git
+2. Navigate to the project directory
+3. npm install
+
+## Usage
+
+1. Register for an account or log in if you already have one.
+2. Browse available listings or create your own by clicking "Add Listing".
+3. Leave reviews for properties you've stayed at to help other users.
+4. Manage your listings and profile through the user dashboard.
+
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Acknowledgments
+
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
